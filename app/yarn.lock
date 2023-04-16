@@ -182,10 +182,10 @@ codemirror-mode-elixir@^1.1.2:
   resolved "https://registry.yarnpkg.com/codemirror-mode-elixir/-/codemirror-mode-elixir-1.1.2.tgz#61227208d2684d928500af6934e4b9c995fb0960"
   integrity sha512-1oIuRVHyUhLv0Za9sEIsI7urAj06EohwO/yVj10bg7aHnimHQ964Wk3uuoPH0Yn8L38EkOd+SwULYpDiCQtoTA==
 
-codemirror@^5.60.0:
-  version "5.60.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.60.0.tgz#00a8cfd287d5d8737ceb73987f04aee2fe5860da"
-  integrity sha512-AEL7LhFOlxPlCL8IdTcJDblJm8yrAGib7I+DErJPdZd4l6imx8IMgKK3RblVgBQqz3TZJR4oknQ03bz+uNjBYA==
+codemirror@^5.65.12:
+  version "5.65.12"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.12.tgz#294fdf097d10ac5b56a9e011a91eff252afc73ae"
+  integrity sha512-z2jlHBocElRnPYysN2HAuhXbO3DNB0bcSKmNz3hcWR2Js2Dkhc1bEOxG93Z3DeUrnm+qx56XOY5wQmbP5KY0sw==
 
 color-convert@^1.9.0:
   version "1.9.0"
